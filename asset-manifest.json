@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.fef3ae2d.css",
+    "main.js": "/Portfolio/static/js/main.24203e5f.js",
+    "static/media/odyssey.png": "/Portfolio/static/media/odyssey.501a8d184074a974e800.png",
+    "static/media/sushi.png": "/Portfolio/static/media/sushi.c2aa8639069eb72cac94.png",
+    "static/media/travel.png": "/Portfolio/static/media/travel.83212f6866ce6e6af9d1.png",
+    "static/media/expense.png": "/Portfolio/static/media/expense.6f4954e621d3daa8fd85.png",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.da6117ecbd631430d315.jpg",
+    "static/media/backend.png": "/Portfolio/static/media/backend.f5254fcb824cc40ed178.png",
+    "static/media/ux.png": "/Portfolio/static/media/ux.51c45046e7aaa6bc5610.png",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.fef3ae2d.css.map": "/Portfolio/static/css/main.fef3ae2d.css.map",
+    "main.24203e5f.js.map": "/Portfolio/static/js/main.24203e5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef3ae2d.css",
+    "static/js/main.24203e5f.js"
+  ]
+}
